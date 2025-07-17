@@ -1,4 +1,4 @@
-#EV-Vehicle-Charging-Demand-Prediction
+# **EV-Vehicle-Charging-Demand-Prediction**
 
 ## ⚡**EV Adoption Forecasting**  
 As electric vehicle (EV) adoption surges, urban planners must proactively anticipate infrastructure needs—especially the deployment of ⚡ charging stations. Inadequate planning may lead to congestion, reduced user satisfaction, and setbacks in achieving 🌱 sustainability goals.
